@@ -1,6 +1,6 @@
 # pyabms
 This is a Python package for running Agent-Based Modeling and Simulation (ABMS).
 
-## Set up
+## 1. Set up
 
-## Tutorials
+## 2. Tutorials
